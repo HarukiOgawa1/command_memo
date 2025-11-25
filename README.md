@@ -1,2 +1,2 @@
 # command_memo
-Useful commands to note down
+このリポジトリは，issuesなどに他のリポジトリのメモを残しています．
