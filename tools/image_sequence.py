@@ -23,8 +23,7 @@ def draw_label(img, text):
 
 # --- メイン処理 ---
 
-video_path = '/home/harukiogawa/ダウンロード/rl-video-step-0.mp4'
-#video_path = '/path/to/default.mp4'
+video_path = '/path/to/default.mp4'
 cap = cv2.VideoCapture(video_path)
 
 # 時間設定（秒）

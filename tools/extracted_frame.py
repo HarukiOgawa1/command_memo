@@ -1,7 +1,7 @@
 import cv2
 
 # --- 設定 ---
-video_path = '/home/harukiogawa/ダウンロード/rl-video-step-0.mp4'
+video_path = '/path/to/default.mp4'
 save_path = 'extracted_frame.png'  # 保存するファイル名
 target_time = 2.0                 # 切り出したい秒数（例: 2.0秒）
 
