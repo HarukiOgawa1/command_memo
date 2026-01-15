@@ -9,4 +9,4 @@
 
 | image_sequence |
 | :---: |
-| <img src="image_sequence.png" width="300"> |
+| <img src="image_sequence.png" width="600"> |
